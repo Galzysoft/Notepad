@@ -1,0 +1,1 @@
+export 'package:notepad/utils/app_theme.dart';
